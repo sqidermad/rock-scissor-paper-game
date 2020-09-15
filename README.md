@@ -2,7 +2,7 @@
 just a simple Rock Scissor Paper Game
 
 # Languages
-C
+C++
 
 # Credits
 Made by team. Copyright (C) 2016 Christoper Glorian, Henrich Reagan, Maria Vanessa Salim. All Rights Reserved.
